@@ -8,6 +8,12 @@
 // trim: loại bỏ khoảng trắng ở đầu và cuối chuỗi
 // replace(cái cần thay, cái muốn thay): thay thế kiểu trong mảng. Ví dụ , => .
 // includes, startWith: ktra phần tử trả về true or false
+// filter: lọc mảng (trả về mảng)
+// map: dùng để tạo mảng mới (trả về object)
+// flat: gộp mảng. Ví dụ đa mảng thành 1 mảng
+// some: trả về true or false
+// math.trunc: làm tròn
+// sort: sắp xếp chỉ với chuỗi. Ví dụ sort((a, b), a - b: lớn dần, b - a: nhỏ dần)
 // pathStart: thêm khoảng trắng <> pathEnd
 // Ví dụ kết hợp: 
 const passenger = 'DuNg';

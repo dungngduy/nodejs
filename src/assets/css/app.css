@@ -1,0 +1,20 @@
+.card-body a {
+  text-decoration: none; }
+
+.card-body h5,
+.card-body p {
+  color: #333;
+  margin: 5px 0px; }
+
+.btn-primary {
+  margin-top: 10px; }
+
+.modal-footer .btn-secondary {
+  margin-top: 10px; }
+
+.form-select {
+  width: 180px;
+  margin: 0px 10px; }
+
+.btn-deleteAll {
+  margin-top: -2px; }
