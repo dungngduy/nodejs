@@ -1,7 +1,6 @@
 {
   "name": "web2062_wd18301",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon --inspect src/index.js",

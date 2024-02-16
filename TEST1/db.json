@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Sản phẩm 2",
+      "price": "20000"
+    },
+    {
+      "id": "3",
+      "name": "Sản phẩm 3",
+      "price": "3000"
+    },
+    {
+      "id": "a95a",
+      "name": "Áo len",
+      "price": "400000"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": 123456
+    }
+  ]
+}
