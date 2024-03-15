@@ -207,6 +207,9 @@ btnCheckLogin.addEventListener('click', function(e){
         if(checkLogin(data, username.value, password.value)){
             alert('Bạn đã đăng nhập thành công');
             window.location.href = './index.html';
+        }else{
+            alert('Tài khoản hoặc mật khẩu không chính xác');
+            password.focus();
         }
     })
     .catch(err => console.log(err))
@@ -214,6 +217,6 @@ btnCheckLogin.addEventListener('click', function(e){
 
 const checkLogin = function(data, user, pass){
     return data.some((data) => {
-        return data.username = user && data.password == pass;
+        return data.username == user && data.password == pass;
     })
 }

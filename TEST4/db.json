@@ -1,0 +1,25 @@
+{
+  "subjects": [
+    {
+      "id": "d242",
+      "name": "Toàn tập ngôn ngữ lập trình C#",
+      "description": "Khóa học lập trình C# bài bản chi tiết nhất tại nhà. Được giảng viên tổng hợp những kiến thức thực tế vào trong bài giảng của mình giúp bạn vận dụng dễ hiểu"
+    },
+    {
+      "id": "a698",
+      "name": "Học HTML5/CSS3, BOOTSTRAP 4 và học cắt Web từ file thiết kế",
+      "description": "Khoá học BOOTSTRAP 4, HTML5/CSS3 giúp bạn thành thạo các kỹ năng, phương pháp, hiệu ứng,... cắt Web từ file thiết kế giúp nắm vững kiến thức về CSS, HTML, hiểu rõ Bootstrap và kỹ năng cắt Web với Illustrate, Pix và xử lý nội dung website chuyên nghiệp chỉ với 5 ngày"
+    },
+    {
+      "id": "7931",
+      "name": "Lập trình Java trong 4 tuần",
+      "description": "Khóa học Lập trình Java thành thạo trong 4 tuần - Bí quyết học ngôn ngữ lập trình java - Tìm hiểu cơ bản về ngôn ngữ lập trình Java (Từ định nghĩa đến kiểu dữ liệu, biến, câu lệnh, mảng, chuỗi ... cấu trúc điều khiển trong java"
+    }
+  ],
+  "users": [
+    {
+      "username": "dung2004",
+      "password": "123456"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": "3000002"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": "1000000"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": "3000001"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": "bae4"
+    }
+  ]
+}

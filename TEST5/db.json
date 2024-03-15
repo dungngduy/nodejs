@@ -1,0 +1,31 @@
+{
+  "coupons": [
+    {
+      "id": "2",
+      "nameCoupon": "FPOLY2",
+      "discount": "35"
+    },
+    {
+      "id": "3",
+      "nameCoupon": "FPOLY3",
+      "discount": "62"
+    },
+    {
+      "id": "b7fa",
+      "nameCoupon": "FPOLY4",
+      "discount": "50"
+    },
+    {
+      "id": "3c3b",
+      "nameCoupon": "FPOLY4",
+      "discount": "20"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "1892004",
+      "id": "2f56"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "person": [
+    {
+      "id": "1",
+      "name": "Dũng",
+      "age": "20",
+      "avatar": "https://secure.gravatar.com/avatar/ddd3fe28505c9e08b8476888cbfedc67?s=500&d=mm&r=g"
+    },
+    {
+      "id": "458a",
+      "name": "Nguyễn Duy Dũng",
+      "age": "21",
+      "avatar": "https://png.pngtree.com/png-clipart/20220719/original/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_8385663.png"
+    }
+  ],
+  "account": [
+    {
+      "username": "dung2004",
+      "password": "2004"
+    }
+  ]
+}
